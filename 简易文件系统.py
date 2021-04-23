@@ -1,5 +1,6 @@
 import os
 print('hello.winos')
+print('请输入help查看所有命令')
 a = os.getcwd()
 while True:
     a = os.getcwd()

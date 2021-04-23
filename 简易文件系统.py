@@ -30,8 +30,6 @@ while True:
             os.rmdir(d)
     if b == 'help':
         print('cd:跳转到一个目录,md:新建文件或文件夹,dir:查看此目录的文件,del:删除文件或文件夹')
-    else:
-        print('没有此命令，请输入help已查看帮助')
     
 
 
